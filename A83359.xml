@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments message to the King at Yorke. And his Maiesties warrant to the countie, with an order to the House of Peeres, to the Earle Northampton Earle of Dover Earle of Devonshire Earle of Huntington Earl of Linsey Earle of Coventry and L. Savile L. Howard L. Mowbray L. Rich L. Capel Sir I. Berkley Col. Ashbourne Cap. Pollard. And the earles, lords, and other severall answers to the said order of the House, also diverse other famous and remarkeable occurrences in both Houses of Parliament. H. El. Cler. P. D. C.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83359</idno><idno type="EEBO-CITATION">99860486</idno>
+  <idno type="VID">156782</idno>
+  <idno type="EEBO-PROQUEST">2240884025</idno>
+  
+            <idno type="STC">Wing E2141</idno>
+            <idno type="STC">Thomason E152_3</idno>
+            <idno type="STC">ESTC R18882</idno>
+            <idno type="PROQUEST">99860486</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860486e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156782)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E152[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments message to the King at Yorke. And his Maiesties warrant to the countie, with an order to the House of Peeres, to the Earle Northampton Earle of Dover Earle of Devonshire Earle of Huntington Earl of Linsey Earle of Coventry and L. Savile L. Howard L. Mowbray L. Rich L. Capel Sir I. Berkley Col. Ashbourne Cap. Pollard. And the earles, lords, and other severall answers to the said order of the House, also diverse other famous and remarkeable occurrences in both Houses of Parliament. H. El. Cler. P. D. C.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Daniel Hopson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from WIng.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156782:1"/>
+            <p>THE PARLIAMENTS MESSAGE TO THE KING AT YORKE.</p>
+            <p>And his Maiesties warrant to the Countie, with an order to the House of Peeres,</p>
+            <p>To the
+<list>
+                  <item>Earle Northampton</item>
+                  <item>Earle of Dover</item>
+                  <item>Earle of Devonshire</item>
+                  <item>Earle of Huntington</item>
+                  <item>Earle of Linsey</item>
+                  <item>Earle of Coventry.</item>
+               </list> and
+<list>
+                  <item>L. Savile.</item>
+                  <item>L. Howard.</item>
+                  <item>L. Mowbray</item>
+                  <item>L. Rich.</item>
+                  <item>L. Cape <hi>I.</hi>
+                  </item>
+                  <item>Sir I. Berkley</item>
+                  <item>Col. Ashbourne<add>ham</add>
+                  </item>
+                  <item>Cap. Pollard.</item>
+               </list>
+            </p>
+            <p>And the Earles, Lords, and other severall answers to the said order of the House, Also diverse o<g ref="char:EOLhyphen"/>ther famous, and remarkeable occurrences in both Houses of Parliament.</p>
+            <p>Iune 27</p>
+            <p>H. El. Cler. P. D. C.</p>
+            <p>Printed <hi>Danniel Hopson.</hi> 1642.</p>
+            <pb facs="tcp:156782:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156782:2"/>
+            <head>The Parliaments Message to the King at Yorke.</head>
+            <p>THe Lords, and Commons now assembled in Parliament, having with great care, and vigilancie perceived not onely the preposterous distraction of the Kingdome, but also his Maie<g ref="char:EOLhyphen"/>sties refractary opinion in the State of this Realme doe iustly feare, that they are brought most studiously to the very brinke of calamity, and unlesse they bee sollicitous of the Epidemi<g ref="char:EOLhyphen"/>call security of this Nation, the fundamentall constitutions of the Kingdome may bee viola<g ref="char:EOLhyphen"/>ted, the Lawes transported, and mis-interpre<g ref="char:EOLhyphen"/>ted, and the liberties, immurities, and iust pro<g ref="char:EOLhyphen"/>prieties of the subiects invaded. This the King, and the Parliament mutually fomenting feares, and iealousies betweene each other, have caused the Kingdome to be intricately involved in such a stupendious laberynth of distraction, that the disturbed estate of the whole Kingdome is strangely, and promiscuously shaken thereby. Diverse and severall Messages, and Remon<g ref="char:EOLhyphen"/>strances, Declarations, and Replyes have beene often reflected on each other, and while the Kings indignation is exasperated the Parlia<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:156782:3"/> suspicion is not deficient upon iustifiable grounds. So that untill a pacification, an uni<g ref="char:EOLhyphen"/>ted concord, and absolue connection doe con<g ref="char:EOLhyphen"/>curre betweene them, reconciling all these va<g ref="char:EOLhyphen"/>riances, and differences, the peace and prospe<g ref="char:EOLhyphen"/>rity of the Kingdome will depend on an ambi<g ref="char:EOLhyphen"/>guous, and very dubious security.</p>
+            <p>The Parliament precogitating how to con<g ref="char:EOLhyphen"/>firme the florishing tranquillity of the State of of the Kingdome: and to reduce the distracted calamity, and distractions of the Kingdome to a reciprocall union, have sent a Message to the King, severall propositions being therein inclu<g ref="char:EOLhyphen"/>ded, to desire his Maiesty to condescend there<g ref="char:EOLhyphen"/>unto. First, concerning the election of all chiefe officers, as principally concerne the Kingdom, that they might bee chosen by the approbation of both Houses of Parliament, as the Lord Keep<g ref="char:EOLhyphen"/>er, Lord High Constable, Lord Lieutenant, Lord Chamberlaine, &amp; e. That the Houses of Parliaments a stipulation should be reflected on them, to the subsequent and ensueing prosperity of this Nation: then that his Maiestie would graciously subscribe, and condescend unto the Order of the Militia of the Kingdome, as they have discreetly, and most iudiciously disposed of: and that it should be conferred to the trusty hands of such persons only, whose fidelity were approoved by the consent of both Houses of Parliament. That the impeachment of the Lord Kimbolton, and the other five Members of the House of Commons may bee cleered according to
+<pb facs="tcp:156782:3"/> the known Law of the Land. And that those <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umultuous, and Rebellious Cavelleers, or the Malignant Party, may bee remooved from his Maiesties Person, and not instill into his Royall mind by their Parasiticall insinuations a sini<g ref="char:EOLhyphen"/>ster conceit of the Patliaments fidelity: that the bleeding wounds of Ireland may likewise bee endeavoured to bee cured by his Maiesties Roy<g ref="char:EOLhyphen"/>all contribution, and lastly, that the peace, and tranquillity of the Kingdome might bee setled, confirmed, and directly ratified, that no more feares and iealous dangers, and approaching su<g ref="char:EOLhyphen"/>spitions of bloody contentions might bee accu<g ref="char:EOLhyphen"/>mulated on the conceits of any. These, and se<g ref="char:EOLhyphen"/>verall other things expressed therein, they pre<g ref="char:EOLhyphen"/>sented to his Maiestie at Yorke, as an argument to perswade his Maiestie to concurre with the prudency of Parliament, and to reiect, and abro<g ref="char:EOLhyphen"/>gate his resolution of raysing Armes, and taking forces against his Parliament.</p>
+            <p>And since there are so many various passages now dayly agitated in Parliament, I shall thinke it not impertinent or incongruent to articulate, and expresse some certaine occurrences that are assiduously treated on. M. Cursan had sent di<g ref="char:EOLhyphen"/>verse letters to the Lord Herbert in a most sy<g ref="char:EOLhyphen"/>cophantizing, and calumnious manner, intima<g ref="char:EOLhyphen"/>ting that his Maiesty intended to rayse Armes, and all the forces he could possibly, and come a<g ref="char:EOLhyphen"/>gainst the Parliament by the 29. day of this pre<g ref="char:EOLhyphen"/>sent month. And it would bee a loyall and Ho<g ref="char:EOLhyphen"/>nourable Action for the Lord Herbert to ad<g ref="char:EOLhyphen"/>ioyne
+<pb facs="tcp:156782:4"/> and assist his Maiestie herein: and there<g ref="char:EOLhyphen"/>fore advised the said Lord to bring all the forces he could, and with all speedy expedition, to con<g ref="char:EOLhyphen"/>duct them to Yorke, this Letter was presented to the House of Commons, and there read, and afterwards delivered to the House of Peeres, ac<g ref="char:EOLhyphen"/>quainting the Lords therewithall. Whereupon a private warrant immediatly set forth, and was particularly given to M. Pym, for the appre<g ref="char:EOLhyphen"/>hension of the said Cursan, to answer such mat<g ref="char:EOLhyphen"/>ters as should be evidently obiected against him, but information was given, that the said Master Cursan was got to his Maiesty for protection, before the Warrant could overtake him. The Lords sent the precedent weeke a Message to di<g ref="char:EOLhyphen"/>vers, of the Nobility, now accompanying his Maiestie at Yorke, but they being Members of their Houses, and refusing to obey the Houses Command were sent for as delinquents to make their personall appearance in Parliament, viz, The
+<list>
+                  <item>Earle of <hi>Dover.</hi>
+                  </item>
+                  <item>Earle of <hi>Northampton.</hi>
+                  </item>
+                  <item>Earle of <hi>Devonshire.</hi>
+                  </item>
+                  <item>Earle of <hi>Huntington.</hi>
+                  </item>
+                  <item>Earle of <hi>Coventry,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But whenas they understood by theit An<g ref="char:EOLhyphen"/>swers, that they were resolved to stay with his Maiesty being obleiged by those places of Ho<g ref="char:EOLhyphen"/>nour, and trust, which his Maiestie had confer<g ref="char:EOLhyphen"/>red on them, and if they did not comply with his commands they were loyable to displeasure:
+<pb facs="tcp:156782:4"/> and Subiect to loose their places of Honour: then the Lords sent againe unto them, and with<g ref="char:EOLhyphen"/>all directing an Order also unto The
+<list>
+                  <item>Lord <hi>Howard.</hi>
+                  </item>
+                  <item>Lord <hi>Mowbray.</hi>
+                  </item>
+                  <item>Lord <hi>Rich.</hi>
+                  </item>
+                  <item>Lord <hi>Capel.</hi>
+                  </item>
+               </list> but the said Lords contemned the Order, for their appearance, alleadging, that they were en<g ref="char:EOLhyphen"/>gaged to attend upon his Maiestie, which the Lords have voted to be a great affront to the Parliament, desiring the Commons also to con<g ref="char:EOLhyphen"/>ioyne with them in it, which was accordingly done.</p>
+            <p>The Free-holders of <hi>Yorke</hi> directed a Petition to the Parliament Expressing the great abuses they sustained at their meeting by the <hi>Earle</hi> of <hi>Lindsey,</hi> and the Lord <hi>Sauile.</hi> Thereupon there was a great debate in the house of Commons, and they sent a Message to the Lords to desire they would Ioyne with them in sending a Mes<g ref="char:EOLhyphen"/>sage to the King, that he would be pleased to ac<g ref="char:EOLhyphen"/>cepte of the Fre-holders Petition: After which the Commons agreed in a Vote, that the Earle of <hi>Lindsey,</hi> and the Lord <hi>Sauile</hi> should be sent for, as publike Enemies to the Common wealth and Intendiaries betweene the King and his People, and the Commons deliuered the sayd <hi>Votes</hi> to the Lords, in which they agreed.</p>
+            <p>There were letters read in the House which ca<g ref="char:EOLhyphen"/>me from <hi>Amsterdam,</hi> Informing that there are many shipps sent from Spaine, that lay in <hi>Dun<g ref="char:EOLhyphen"/>kerk</hi>
+               <pb facs="tcp:156782:5"/> which as it is conceiued are intended for <hi>Ireland.</hi> And that a great part of <hi>Ireish,</hi> which belong to the King of <hi>France</hi> are lately fallen off, and gone to <hi>Dunkerk:</hi> whereupon there was an Order sent to the Earle of <hi>Warwick,</hi> to desire his carefull vigilance at Sea; and to certefie him of that of that information they had received.</p>
+            <p>It was Ordered then upon diverse grounds &amp; iust causes, That
+<list>
+                  <item>Sir <hi>John Berkly.</hi>
+                  </item>
+                  <item>Collonoll <hi>Ashburne.</hi>
+                  </item>
+                  <item>Captaine <hi>Pollar.</hi>
+                  </item>
+               </list> Who with his Maiesty at <hi>Yorke,</hi> should be sent for to the House with all celerity.</p>
+            <p>Information also was given to the House, that his Maiesty had sent Warrants up, and downe that part of the Country for the bringing of all such Armes, as have beene taken from Re<g ref="char:EOLhyphen"/>cusants to his Maiestie.</p>
+            <p>The House of Commons sent a Messenger to apprehend <hi>Becket,</hi> the great Papist of <hi>Yorke</hi> but the said <hi>Becket</hi> was rescued from him by di<g ref="char:EOLhyphen"/>uers Cavaleers at <hi>Yorke,</hi> and the Messenger a<g ref="char:EOLhyphen"/>bused by them: And afterwards his Prisoner being delivered to him by meanes of the Com<g ref="char:EOLhyphen"/>mittee at <hi>Yarke,</hi> was sent for afterwards to his Maiestie, telling him that when the Parliament gave him Iustice against Sir <hi>Iohn Hotham,</hi> he would deliver <hi>Becket</hi> to them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
